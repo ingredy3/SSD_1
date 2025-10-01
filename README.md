@@ -17,7 +17,7 @@ Este projeto tem como objetivo **criar um modelo preditivo para estimar o preço
 ---
 
 ## 📊 Conjunto de Dados
-O dataset utilizado foi **[Car Prices Dataset (Kaggle)](https://www.kaggle.com/)**.  
+O dataset utilizado foi **[Car Prices Dataset (Kaggle)]([https://www.kaggle.com/](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data/data))**.  
 
 - Total de registros: ~150.000 veículos  
 - Principais variáveis:  
