@@ -106,6 +106,4 @@ O dataset utilizado foi **[Car Prices Dataset (Kaggle)]([https://www.kaggle.com/
 - Explorar segmentação do mercado (carros populares vs. premium).  
 - Disponibilizar uma **API de previsão** para consultas em tempo real.
 
----
 
-## 📂 Estrutura do Projeto
