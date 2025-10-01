@@ -47,7 +47,7 @@ O dataset utilizado foi **[Car Prices Dataset (Kaggle)]([https://www.kaggle.com/
    - Redução da cardinalidade (agrupamento de marcas e modelos raros).  
 4. **Modelagem:**  
    - Modelos testados: **Baseline (Dummy Median), Regressão Linear, Random Forest**.  
-   - Divisão em treino (80%) e teste (20%).  
+   - Divisão do dataset em **80% treino, 10% validação e 10% teste**.   
    - Métricas utilizadas: MAE, RMSE e R².  
 5. **Avaliação e Seleção:**  
    - Comparação entre os modelos.  
